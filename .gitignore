@@ -1,3 +1,6 @@
 /webrtc_event_logs
 /blob_storage
 /error.log
+__pycache__
+/build
+/dist
