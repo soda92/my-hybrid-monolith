@@ -1,3 +1,4 @@
-cefpython3
 PySide2
 PyInstaller
+fastapi
+uvicorn
