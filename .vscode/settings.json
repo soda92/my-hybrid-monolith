@@ -1,3 +1,6 @@
 {
-    "python.defaultInterpreterPath": "python38"
+    "python.defaultInterpreterPath": "python38",
+    "files.associations": {
+        "*.spec": "python",
+    }
 }
